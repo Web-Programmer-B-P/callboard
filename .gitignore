@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Prod property
+db_heroku.properties
+
 # Log file
 *.log
 
